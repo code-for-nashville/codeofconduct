@@ -1,7 +1,13 @@
-codeofconduct
+Code for Nashville's Code of Conduct
 =============
 
+#### Incidents
+> :warning: If you have any concern or discomfort, please email safespace@codefornashville.org or tell a C4N [organizer](http://www.codefornashville.org/#team).
+
+If you don't feel comfortable reporting to a Code For Nashville leader for any reason, please email our parent organization, Code For America, at safespace@codeforamerica.org (as below).
+
 #### Code for America's Code of Conduct
+> You can see the lastest Code For America Code of Conduct [here](https://github.com/codeforamerica/codeofconduct).
 
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
