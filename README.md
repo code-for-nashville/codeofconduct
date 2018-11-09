@@ -6,7 +6,7 @@ Code for Nashville's Code of Conduct
 
 If you don't feel comfortable reporting to a Code For Nashville leader for any reason, please email our parent organization, Code For America, at safespace@codeforamerica.org (as below).
 
-## Historically Informed
+## Historical Context
 Code for Nashville does not operate in a historical or cultural vacuum. We recognize that spaces within the tech ecosystem have traditionally excluded women, people of color, disabled, and queer communities as well as by age and other factors.
 These guidelines are meant to promote a healthy and inviting atmosphere for all and intentionally so for those who are traditionally excluded.
 Any form of discussion, either online or in-person, which seeks to trivialize or undermine the experience of traditionally marginalized groups will not be tolerated and is in violation of this Code of Conduct.
